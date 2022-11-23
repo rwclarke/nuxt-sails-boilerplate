@@ -9,7 +9,7 @@
     "@sailshq/lodash": "^3.10.3",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.10.1",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "sails": "^1.2.3",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0"
